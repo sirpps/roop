@@ -1,4 +1,4 @@
-#--extra-index-url https://download.pytorch.org/whl/cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
 
 numpy==1.24.3
 opencv-python==4.8.0.74
